@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK AWS</h1>
-<h1 align="center"> KK FUNDA</h1>
+<h1 align="center">Welcome to Chandra Startup</h1>
+<h1 align="center"> Innovative Technology</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,21 +34,21 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/kkfunda.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		KK FUNDA, 
+		Chandra Startup, 
 		Martha Halli, Banglore,
 		Bangalore,
-		+91-9676831734,+91-9676831734
-		kkeducationblr@gmail.com
+		+91-9640235390,+91-9676831734
+		uyyala88@gmail.com
 		<br>
-		<a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
+		<a href="mailto:uyyala88@gmail.com">Mail to Chandra Startup</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>KK FUNDA Training, Development Center.</p>
-<p align=center><small>Copyrights 2024 by <a href="google.com/">KK FUNDA</a> </small></p>
+<p align=center>Inovative Technoloy Training, Development Center.</p>
+<p align=center><small>Copyrights 2024 by <a href="google.com/">Innovative Technology</a> </small></p>
 
 </body>
 </html>
